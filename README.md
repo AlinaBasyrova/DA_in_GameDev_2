@@ -11,6 +11,23 @@
 
 знак "*" - задание выполнено; знак "#" - задание не выполнено;
 
+Работу проверили:
+- к.т.н., доцент Денисов Д.В.
+- к.э.н., доцент Панов М.А.
+- ст. преп., Фадеев В.О.
+
+[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+
+Структура отчета
+- Данные о работе: название работы, фио, группа, выполненные задания.
+- Цель работы.
+- Задание 1.
+- Задание 2.
+- Задание 3.
+- Выводы.
+
 ## Цель работы
 научиться передавать в Unity данные из Google Sheets с помощью Python.
 
@@ -30,6 +47,12 @@
 ## Выводы
 
 В процессе выполнения лабораторной работы я научился передавать в Unity данные из Google Sheets с помощью Python, а также познакомился с https://console.cloud.google.com .
+
+| Plugin | README |
+| ------ | ------ |
+| GitHub | [plugins/github/README.md][PlGh] |
+| Visual Studio| [plugins/visualstudio/README.md][PlGh] |
+| Unity | [plugins/unity/README.md][PlMe] |
 
 ## Powered by
 

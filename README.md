@@ -47,9 +47,7 @@ Minecraft - комьютерная игра в жанре песочница. Г
 
   ![image](https://github.com/AlinaBasyrova/DA_in_GameDev_2/assets/129521982/125059f8-d6e7-46ad-b55a-5b8a1b005b6a)
   ![image](https://github.com/AlinaBasyrova/DA_in_GameDev_2/assets/129521982/f0a55997-7fb7-4cd0-908a-65c63f0ebc5e)
-
-
-
+  ![image](https://github.com/AlinaBasyrova/DA_in_GameDev_2/assets/129521982/b8d15eb5-7d9b-4e70-9306-4f62bfb6b342)
 
 ## Задание 2
 ### С помощью скрипта на языке Python заполните google-таблицу данными, описывающими выбранную игровую переменную в выбранной игре (в качестве таких переменных может выступать игровая валюта, ресурсы, здоровье и т.д.). Средствами google-sheets визуализируйте данные в google-таблице (постройте график, диаграмму и пр.) для наглядного представления выбранной игровой величины.
